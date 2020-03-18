@@ -7,4 +7,5 @@
 - Information about Retrofit (https://square.github.io/retrofit/)
 - Use override methods of retrofit in Kotlin (https://stackoverflow.com/questions/50765682/retrofit2-enqueue-onresponse-in-kotlin/50766081)
 - Fake Restfull API (https://jsonplaceholder.typicode.com/)
-- For use node server, go to main folder -> npm i -> node server.js (if you create an own packaje.json -> npm init)
+- For use node server, go to main folder -> npm i -> node server.js 
+- If you want to create an own packaje.json -> npm init
